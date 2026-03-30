@@ -4,3 +4,4 @@ safetensors
 fastapi
 uvicorn[standard]
 numpy
+pytest>=7.0
